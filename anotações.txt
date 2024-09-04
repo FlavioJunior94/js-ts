@@ -1,0 +1,10 @@
+repositorio professor:
+https://github.com/luizomf/curso-js
+----------------------------------------------------------------------------------------------------------------------
+
+Seção 1: Configurando o ambiente
+Seção 2: Javascript Basico
+Seção 3: Logica de programação 
+Seção 4: Funções [avançado]
+Seção 5: Arrays [avançado]
+Seção 6: Objetos e Prototypes
