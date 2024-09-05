@@ -8,3 +8,4 @@ Seção 3: Logica de programação
 Seção 4: Funções [avançado]
 Seção 5: Arrays [avançado]
 Seção 6: Objetos e Prototypes
+Seção 7: JS Classes - Programação Orientada a Objetos -POO

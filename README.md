@@ -42,3 +42,4 @@ O objetivo deste repositório é servir como um compilado de estudos e experimen
 - **Seção 4:** Funções [avançado]
 - **Seção 5:** Arrays [avançado]
 - **Seção 6:** Objetos e Prototypes
+- **Seção 7:**  JS Classes - Programação Orientada a Objetos -POO
