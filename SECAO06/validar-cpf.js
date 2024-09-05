@@ -35,11 +35,10 @@ function validaCpf(cpf){
     let sDigito = (segundoDigito(cpfFormatado));
     cpfFormatado.push(sDigito);
 
-    cpfFormatadoString = `${cpfFormatado[0]}${cpfFormatado[1]}${cpfFormatado[2]}.${cpfFormatado[3]}${cpfFormatado[4]}${cpfFormatado[5]}.${cpfFormatado[6]}${cpfFormatado[7]}${cpfFormatado[8]}-${cpfFormatado[9]}${cpfFormatado[10]} `;
+    let cpfFormatadoString = `${cpfFormatado[0]}${cpfFormatado[1]}${cpfFormatado[2]}.${cpfFormatado[3]}${cpfFormatado[4]}${cpfFormatado[5]}.${cpfFormatado[6]}${cpfFormatado[7]}${cpfFormatado[8]}-${cpfFormatado[9]}${cpfFormatado[10]}`;
 
-    cpfFormatadoString2 = cpfFormatado.slice(0, 3) + '.' + cpfFormatado.slice(3, 6) + '.' +cpfFormatado.slice(6, 9) + '-' + cpfFormatado.slice(9, 11);
 
-    if (cpfFormatadoString2===cpfSemForm) return console.log('CPF VALIDO !');
+    if (cpfFormatadoString===cpfSemForm) return console.log('CPF VALIDO !');
     return console.log('CPF INVALIDO!')
     
 }
@@ -79,7 +78,8 @@ function segundoDigito(cpf){
 
 formataCPf = (cpf) => cpfArray = Array.from(cpf.replace(/\D+/g,''));
 
-let cpf = '705.484.450-52 ';
+/let cpf = '705.484.450-52';
+
 
 
 validaCpf(cpf);
