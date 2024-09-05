@@ -78,7 +78,7 @@ function segundoDigito(cpf){
 
 formataCPf = (cpf) => cpfArray = Array.from(cpf.replace(/\D+/g,''));
 
-/let cpf = '705.484.450-52';
+let cpf = '705.484.450-52';
 
 
 
