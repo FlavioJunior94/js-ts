@@ -45,3 +45,4 @@ O objetivo deste repositório é servir como um compilado de estudos e experimen
 - **Seção 7:**  JS Classes - Programação Orientada a Objetos -POO
 - **Seção 8:** Javascript assincrono - Promises, Ajax, Fetch e Async/Await
 - **Seção 9:** Javascript tooling e ES6 Modules - Modulos
+- **Seção 10:** JavaScript - Node, Npm, Express e MongoDB (NodeJS)
