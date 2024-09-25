@@ -1,0 +1,21 @@
+<%- include('includes/head'); %>
+
+  <section class="container">
+    <h1>
+      
+      <% if(typeof titulo !=='underfined') %>
+      <%= titulo %>
+      <% } else { %> 
+       O titulo nao foi enviado.
+
+      <%#- titulo %>
+
+    </h1>
+    <form action="/" method="post">
+      <label >Ciiente</label>
+      <input type="text" name="cliente" id="">
+      <button>Submit</button>
+    </form>
+  </section>
+
+  <%- include('includes/footer'); %>

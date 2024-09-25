@@ -8,8 +8,12 @@ HomeModel.create({
     .catch( e=> console.log(e));
 
 exports.paginaInicial = (req,res) =>{
+    /*
+    req.flash('info', 'Ola mundo');
+    req.flash('errror', 'erro');
+    req.flash('sucess', 'sucesso');*/
     res.render('index');
-    console.log('respondendo o cliente');
+    //console.log('respondendo o cliente');
     //console.log(` 'Pagina inicial' o que tem na req.session.nome ${req.session.nome} `);
     return;
     }
