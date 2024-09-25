@@ -1,0 +1,17 @@
+<%  Controle de fluxo (if , for ,else...) %>
+<%= imprime escapando caracteres %>
+<%- imprime sem escapar caracteres %>
+<%=Comentario %>
+<%- include('CAMINHO/ARQUIVO') %>
+
+ex:
+
+<% if (aqlguma coisa){ %>
+<%= exibi alguma coisa %>
+<% } %>
+
+PADRAO DE PROJETO MVC ( models , views e controllers).
+    - a rota vai decidir qual controller vai ser utilizado ( quem vai controlar aquela rota).
+    - o controller vai decidir qual model e qual view vai ser utilizado.
+    - o model vai trabalhar com Dados. ou a base de dados em si.
+    - view é o que o usuario vai ver.

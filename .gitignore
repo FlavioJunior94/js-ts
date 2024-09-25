@@ -5,4 +5,5 @@ SECAO10/express-req.params-query-body/node_modules/
 SECAO10/express-router-controlers/node_modules/
 SECAO10/MongoDB-conexão-primeiro-model/.env
 SECAO10/injetando-conteudo-nos-views/.env
+SECAO10/helmet-CSRF/.env
 anotações.txt
