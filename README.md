@@ -42,12 +42,12 @@ O objetivo deste repositório é servir como um compilado de estudos e experimen
 - **Seção 4:** Funções [avançado]
 - **Seção 5:** Arrays [avançado]
 - **Seção 6:** Objetos e Prototypes
-- **Seção 7:**  JS Classes - Programação Orientada a Objetos -POO
+- **Seção 7:** JS Classes - Programação Orientada a Objetos -POO
 - **Seção 8:** Javascript assincrono - Promises, Ajax, Fetch e Async/Await
 - **Seção 9:** Javascript tooling e ES6 Modules - Modulos
 - **Seção 10:** JavaScript - Node, Npm, Express e MongoDB (NodeJS)
 - **Seção 11:** JavaScript + Node - Projeto Agenda (com Express + MongoDB)
-- **Seção 12:**
-- **Seção 13:**
-- **Seção 14:**
-- **Seção 15:**
+- **Seção 12:** Linux - Deploy da aplicação e segurança + Chaves SSH
+- **Seção 13:** API REST - Javascript,Node,Express e SQL (MySQL ou MariaDB)
+- **Seção 14:** React com componentes de classe [Basico] - Javascript
+- **Seção 15:** React - Redux - Redux Saga - React Hooks e componentes Funcionais [avançado]
