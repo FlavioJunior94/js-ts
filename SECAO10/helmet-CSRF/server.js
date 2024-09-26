@@ -4,7 +4,7 @@ const express = require('express');
 const app = express();
 
 const mongoose = require('mongoose'); // Quem modela e garante a base de dados .nos retorna uma promese 
-mongoose.connect(process.env.CONNECTIONSTRING)
+mongoose.connect(process.env.CONNECTIONSTRING, { useNewUrlParser: true, useUnifiedTopology: true })
     .then( ()=> {
         app.emit('pronto');
     })
