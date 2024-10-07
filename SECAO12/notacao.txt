@@ -1,0 +1,8 @@
+npm i -g pm2 
+
+pm2 start server.js --name agenda
+
+//por o .env la
+
+pm2 startup 
+//cola o comando e executa
