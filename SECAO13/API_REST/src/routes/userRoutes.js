@@ -5,8 +5,8 @@ const router = new Router();
 
 
 // Ñ deveria existir 
-//router.get('/', loginRequired,UserController.index); // Lista Usuarios
-//router.get('/:id',UserController.show);  //Lista Usuario
+router.get('/', loginRequired,UserController.index); // Lista Usuarios
+router.get('/:id',UserController.show);  //Lista Usuario
 
 router.post('/',UserController.store);
 router.put('/', loginRequired,UserController.update);
