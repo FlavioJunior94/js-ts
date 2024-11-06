@@ -197,4 +197,5 @@ export default function Aluno({ match }) {
 
 Aluno.propTypes = {
   match: PropTypes.shape({}).isRequired,
+  history: PropTypes.shape([]).isRequired,
 };
