@@ -51,3 +51,12 @@ O objetivo deste repositório é servir como um compilado de estudos e experimen
 - **Seção 13:** API REST - Javascript,Node,Express e SQL (MySQL ou MariaDB)
 - **Seção 14:** React com componentes de classe [Basico] - Javascript
 - **Seção 15:** React - Redux - Redux Saga - React Hooks e componentes Funcionais [avançado]
+- **Seção 16:** React Router Dom v6
+- **Seção 17:** Expressões regulares em JavaScript - Regex
+- **Seção 18:** Typescript - Instalação
+- **Seção 19:** Typescript - tipos Basicos
+- **Seção 20:** Typescript - Classes e Interfaces - POO
+- **Seção 21:** Typescript - Tipos Avançados
+- **Seção 22:** Typescript - Generics (Generic Type)
+- **Seção 23:** Typescript - Decorators ( Decoradores)
+- **Seção 24:** Typescript - Namespaces e modules ( modulos )
